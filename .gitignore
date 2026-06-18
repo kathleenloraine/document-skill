@@ -1,2 +1,11 @@
+# Dependency directories
 node_modules/
-output/
+
+# Build outputs
+dist/
+*.tsbuildinfo
+
+
+# OS metadata files
+.DS_Store
+Thumbs.db
