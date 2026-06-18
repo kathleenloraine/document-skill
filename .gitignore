@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+*.tsbuildinfo
+
+# Generated documents
+*.docx
+
+# OS metadata files
+.DS_Store
+Thumbs.db
